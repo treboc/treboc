@@ -1,7 +1,7 @@
 ## Hey you.. ✌🏻
 
 ### About me 🍃
-I'm Marvin Lee from Germany. I'm working as an certified geriatric nurse for over 12 years now.
+I'm Marvin Lee, living in Germany. I'm working as an certified geriatric nurse for over 12 years now.
 Becoming a software developer was always my dream. Because I want this dream to become true, I'm working for it.
 
 - 🔩 I'm working on becoming an iOS dev,
