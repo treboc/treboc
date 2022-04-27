@@ -15,6 +15,13 @@ Becoming a software developer was always my dream and I'm working on making the 
 - 100daysOfSwiftUI (64 / 100)
 - iOS Course of Angela Yu (185 / 555)
 
+## My goals for 2022
+* [ ] getting TriomiCount and Snaked into the AppStore
+* [ ] finishing both iOS courses
+* [ ] finish reading [Practical Core Data](https://donnywals.gumroad.com/l/practical-core-data) by Donny Wals
+* [ ] read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dominik Hauser
+* [ ] maybe looking for a job as iOS Developer
+
 <p align="center">
   <a href="https://twitter.com/v0gelfrey">
     <img src="https://img.shields.io/twitter/follow/v0gelfrey?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
