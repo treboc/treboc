@@ -12,7 +12,7 @@ Becoming a software developer was always my dream and I'm working on making the 
 ### What am I working on?
 - [TriomiCount](https://github.com/vogelfrey/TriomiCount), an App mainly for private use to keep track of our Triominous sessions
 - [Snaked](https://github.com/vogelfrey/Snaked), a simple 'Snake'-like game, born with the help of my daughter (was a lot of fun)
-- 100daysOfSwiftUI (64 / 100)
+- 100daysOfSwiftUI (70 / 100)
 - iOS Course of Angela Yu (185 / 555)
 
 ## My goals for 2022
@@ -23,7 +23,7 @@ Becoming a software developer was always my dream and I'm working on making the 
 * [ ] maybe looking for a job as iOS Developer
 
 <p align="center">
-  <a href="https://twitter.com/v0gelfrey">
-    <img src="https://img.shields.io/twitter/follow/v0gelfrey?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
+  <a href="https://twitter.com/treb0c">
+    <img src="https://img.shields.io/twitter/follow/treb0c?label=Twitter&logo=twitter&style=for-the-badge&color=blue" />
   </a>
 </p>
