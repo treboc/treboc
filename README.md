@@ -4,10 +4,8 @@
 I'm Marvin, living in Germany. I'm working as an certified geriatric nurse for over 12 years now.
 Becoming a software developer was always my dream and I'm working on making the dream come true.
 
-- 🔩 I'm working on becoming an iOS dev,
-- 📚 I’m currently learning Swift, UIKit & SwiftUI,
-- 💬 Open mind about a lot of things,
-- 😄 Pronouns: he/him
+- 🔩 I'm going to be an iOS dev anywhere in the future
+- 📚 Currently working on localization, CoreData & Combine
 
 ### What am I working on?
 - [TriomiCount](https://github.com/vogelfrey/TriomiCount), an App mainly for private use to keep track of our Triominous sessions
@@ -17,10 +15,10 @@ Becoming a software developer was always my dream and I'm working on making the 
 
 ## My goals for 2022
 * [ ] getting TriomiCount and Snaked into the AppStore
-* [ ] finishing both iOS courses
+* [ ] finish both iOS courses
 * [ ] finish reading [Practical Core Data](https://donnywals.gumroad.com/l/practical-core-data) by Donny Wals
 * [ ] read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dominik Hauser
-* [ ] maybe looking for a job as iOS Developer
+* [ ] start applying for jobs
 
 <p align="center">
   <a href="https://twitter.com/treb0c">
