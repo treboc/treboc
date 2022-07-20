@@ -16,7 +16,7 @@ Becoming a software developer was always my dream and I'm working on making the 
 * [x] ~~finish '100daysOfSwiftUI' by twostraws~~
 * [ ] finish both iOS courses
 * [ ] finish reading [Practical Core Data](https://donnywals.gumroad.com/l/practical-core-data) by Donny Wals
-* [ ] read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dominik Hauser
+* [x] read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dominik Hauser
 * [ ] start applying for jobs
 
 <p align="center">
