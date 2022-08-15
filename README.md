@@ -9,12 +9,10 @@ Becoming a software developer was always my dream and I'm working on making the 
 
 ### What am I working on?
 - [TriomiCount](https://github.com/vogelfrey/TriomiCount), an App mainly for private use to keep track of our Triominous sessions
-- iOS Course of Angela Yu (185 / 555)
+- multiple smaller things to learn mainly UIKit
 
 ## My goals for 2022
-* [ ] getting TriomiCount and Snaked into the AppStore
 * [x] ~~finish '100daysOfSwiftUI' by twostraws~~
-* [ ] finish both iOS courses
 * [ ] finish reading [Practical Core Data](https://donnywals.gumroad.com/l/practical-core-data) by Donny Wals
 * [x] ~~read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dr. Dominik Hauser~~
 * [ ] start applying for jobs
