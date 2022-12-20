@@ -13,7 +13,6 @@ Becoming a software developer was always my dream and I'm working on making the 
 * [x] ~~finish '100daysOfSwiftUI' by twostraws~~
 * [ ] finish reading [Practical Core Data](https://donnywals.gumroad.com/l/practical-core-data) by Donny Wals
 * [x] ~~read [Test-Driven iOS Development with Swift](https://www.packtpub.com/product/test-driven-ios-development-with-swift/9781785880735) by Dr. Dominik Hauser~~
-* [ ] start applying for jobs
 
 <p align="center">
   <a href="https://twitter.com/treb0c">
